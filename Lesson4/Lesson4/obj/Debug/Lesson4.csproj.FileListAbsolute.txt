@@ -1,0 +1,7 @@
+D:\C# projects\Си Алгоритмы\Урок 4\Lesson4\Lesson4\Lesson4\bin\Debug\Lesson4.exe.config
+D:\C# projects\Си Алгоритмы\Урок 4\Lesson4\Lesson4\Lesson4\bin\Debug\Lesson4.exe
+D:\C# projects\Си Алгоритмы\Урок 4\Lesson4\Lesson4\Lesson4\bin\Debug\Lesson4.pdb
+D:\C# projects\Си Алгоритмы\Урок 4\Lesson4\Lesson4\Lesson4\obj\Debug\Lesson4.csprojAssemblyReference.cache
+D:\C# projects\Си Алгоритмы\Урок 4\Lesson4\Lesson4\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
+D:\C# projects\Си Алгоритмы\Урок 4\Lesson4\Lesson4\Lesson4\obj\Debug\Lesson4.exe
+D:\C# projects\Си Алгоритмы\Урок 4\Lesson4\Lesson4\Lesson4\obj\Debug\Lesson4.pdb
